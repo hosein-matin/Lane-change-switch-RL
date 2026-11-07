@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and the numerical companion."
+title: "Rollout gates and privileged distillation for lane selection with sampled safety: code"
+repository-code: "https://github.com/hosein-matin/Lane-change-switch-RL"
+version: "1.0"
+authors:
+  - family-names: "Nick Zinat Matin"
+    given-names: "Hossein"
+    affiliation: "LIX, Ecole Polytechnique"
+  - family-names: "Sheng"
+    given-names: "Jeffrey"
+    affiliation: "Amherst College"
+  - family-names: "Gong"
+    given-names: "Xiaoqian"
+    affiliation: "Amherst College"
+  - family-names: "Read"
+    given-names: "Jesse"
+    affiliation: "LIX, Ecole Polytechnique"
+preferred-citation:
+  type: conference-paper
+  title: "Rollout Gates and Privileged Distillation for Lane Selection with Sampled Safety: When Is Run-Time Simulation Enough?"
+  authors:
+    - family-names: "Nick Zinat Matin"
+      given-names: "Hossein"
+    - family-names: "Sheng"
+      given-names: "Jeffrey"
+    - family-names: "Gong"
+      given-names: "Xiaoqian"
+    - family-names: "Read"
+      given-names: "Jesse"
+  collection-title: "European Control Conference (ECC)"
+  year: 2027

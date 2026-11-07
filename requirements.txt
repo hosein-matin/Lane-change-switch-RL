@@ -1,0 +1,7 @@
+# simulations and training (all runners)
+numpy>=2,<3
+# analysis scripts (analysis/)
+scipy>=1.11
+matplotlib>=3.8
+# compiled timing benchmark only (stochastic_V/code/bench_compiled.py)
+numba>=0.60
